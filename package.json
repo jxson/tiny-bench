@@ -1,0 +1,19 @@
+{
+  "name": "tiny-bench",
+  "version": "1.0.0",
+  "description": "A tap-like benchmark module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxson/tiny-bench.git"
+  },
+  "author": "Jason Campbell <jasoncampbell@google.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jxson/tiny-bench/issues"
+  },
+  "homepage": "https://github.com/jxson/tiny-bench#readme"
+}
